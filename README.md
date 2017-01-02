@@ -10,4 +10,6 @@ Poland ("PL")
 Great Britain ("FB")
 USA ("US")
 
+These files were used for data analysis in my article: https://opengeospatialdata.springeropen.com/articles/10.1186/s40965-016-0012-1
+
 Files are in *.json format.
